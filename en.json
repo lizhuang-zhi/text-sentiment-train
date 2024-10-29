@@ -1,0 +1,7 @@
+[
+    {"text": "I love sunny days", "label": "positive"},
+    {"text": "I hate the rain", "label": "negative"},
+    {"text": "Feeling great about this new cafe", "label": "positive"},
+    {"text": "I am so mad about the traffic jam", "label": "negative"},
+    {"text": "I am happy with my new haircut", "label": "positive"}
+]
